@@ -371,49 +371,50 @@ function dice() {
     /* ESERCIZIO 23
       Scrivi una funzione per aggiungere un background di colore rosso a ogni link all'interno della pagina.
     */
+   
 
-    /* ESERCIZIO 24
-      Scrivi una funzione per aggiungere un nuovo elemento alla lista non ordinata con id "myList".
-    */
 
-    /* ESERCIZIO 25
-      Scrivi una funzione per svuotare la lista non ordinata con id "myList".
-    */
+/* ESERCIZIO 24
+  Scrivi una funzione per aggiungere un nuovo elemento alla lista non ordinata con id "myList".
+*/
 
-    /* ESERCIZIO 26
-      Scrivi una funzione per aggiungere ad ogni tag <tr> la classe CSS "test"
-    */
+/* ESERCIZIO 25
+  Scrivi una funzione per svuotare la lista non ordinata con id "myList".
+*/
 
-    // [EXTRA] JS Avanzato
+/* ESERCIZIO 26
+  Scrivi una funzione per aggiungere ad ogni tag <tr> la classe CSS "test"
+*/
 
-    /* ESERCIZIO 27
-      Crea una funzione chiamata "halfTree" che riceve un numero come parametro e costruisce un mezzo albero di "*" (asterischi) dell'altezza fornita.
-    
-      Esempio:
-      halfTree(3)
-    
-      *
-      **
-      ***
-    
-    */
+// [EXTRA] JS Avanzato
 
-    /* ESERCIZIO 28
-      Crea una funzione chiamata "tree" che riceve un numero come parametro e costruisce un albero di "*" (asterischi) dell'altezza fornita.
-    
-      Esempio:
-      tree(3)
-    
-        *
-       ***
-      *****
-    
-    */
+/* ESERCIZIO 27
+  Crea una funzione chiamata "halfTree" che riceve un numero come parametro e costruisce un mezzo albero di "*" (asterischi) dell'altezza fornita.
+ 
+  Esempio:
+  halfTree(3)
+ 
+  *
+  **
+  ***
+ 
+*/
 
-    /* ESERCIZIO 29
-      Crea una funzione chiamata "isItPrime" che riceve un numero come parametro e ritorna true se il numero fornito è un numero primo.
-    */
+/* ESERCIZIO 28
+  Crea una funzione chiamata "tree" che riceve un numero come parametro e costruisce un albero di "*" (asterischi) dell'altezza fornita.
+ 
+  Esempio:
+  tree(3)
+ 
+    *
+   ***
+  *****
+ 
+*/
 
-    /* Questo array viene usato per gli esercizi. Non modificarlo. */
+/* ESERCIZIO 29
+  Crea una funzione chiamata "isItPrime" che riceve un numero come parametro e ritorna true se il numero fornito è un numero primo.
+*/
 
-    
+/* Questo array viene usato per gli esercizi. Non modificarlo. */
+
