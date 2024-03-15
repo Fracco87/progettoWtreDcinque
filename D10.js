@@ -172,6 +172,7 @@ function dice() {
           values: [3, 3, 4]
       }
     */
+    function rollTheDices(int n)
 
     /* ESERCIZIO 9
       Scrivi una funzione chiamata "howManyDays" che riceve una data come parametro e ritorna il numero di giorni trascorsi da tale data.
@@ -184,11 +185,15 @@ function dice() {
     /* ESERCIZIO 10
       Scrivi una funzione chiamata "isTodayMyBirthday" che deve ritornare true se oggi è il tuo compleanno, falso negli altri casi.
     */
-   
-   function isTodayMyBirthday(myBirthday)
-    let myBirthday="29 novembre";
-    if (today.getDate===myBirthday){
-      isTodayMyBirthday===true;
+
+    function isTodayMyBirthday(myBirthday)
+    let myBirthday = "29 novembre";
+    if (today.getDate === myBirthday) {
+      isTodayMyBirthday === true;
+      console.log(isTodayMyBirthday)
+    }
+    else {
+      console.log(isTodayMyBirthday)
     }
 
     // Arrays & Oggetti
