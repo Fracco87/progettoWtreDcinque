@@ -293,11 +293,15 @@ function dice() {
     /* ESERCIZIO 9
       Scrivi una funzione chiamata "howManyDays" che riceve una data come parametro e ritorna il numero di giorni trascorsi da tale data.
     */
-    function howManyDays(dataUno) {
-      const dataOdierna = data.getDate();
-      const dataUno =
-  }
-
+      function howManyDays(preimpostata){
+        let preimpostata = new Date(2000, 1, 1); 
+        let oggi = new Date();
+         
+        let diff = oggi.getTime()-preimpostata.getTime() ;
+        return diff;
+         
+        console.log(diff)
+    };
     /* ESERCIZIO 10
       Scrivi una funzione chiamata "isTodayMyBirthday" che deve ritornare true se oggi è il tuo compleanno, falso negli altri casi.
     */
