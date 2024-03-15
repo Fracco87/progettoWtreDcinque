@@ -184,6 +184,12 @@ function dice() {
     /* ESERCIZIO 10
       Scrivi una funzione chiamata "isTodayMyBirthday" che deve ritornare true se oggi è il tuo compleanno, falso negli altri casi.
     */
+   
+   function isTodayMyBirthday()
+    let myBirthday="29 novembre";
+    if (today.getDate===myBirthday){
+      isTodayMyBirthday===true;
+    }
 
     // Arrays & Oggetti
 
